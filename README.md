@@ -1,4 +1,4 @@
-frysbe.github.io
+frys.be
 ================
 
-frys.be
+http://frys.be
